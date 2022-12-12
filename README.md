@@ -2,7 +2,10 @@
 
 # Initial Installation
 
-    1 - Clone repo git clone "https://github.com/GSentientWolf/DevSite.git"
+    1 - Clone repo 
+
+        git clone "https://github.com/GSentientWolf/DevSite.git"
+
     2 - cd into the project directory 
 
         cd DevSite
